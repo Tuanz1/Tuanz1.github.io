@@ -88,7 +88,7 @@
 
   <url>
     <loc>http://standalone.pub:4000/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,56 +96,56 @@
   
   <url>
     <loc>http://standalone.pub:4000/tags/nginx/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/Parse-Server/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/Parse-Dashboard/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/Ionic/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/Echarts/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/Angular/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/tags/Font-Awesome/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -154,21 +154,21 @@
   
   <url>
     <loc>http://standalone.pub:4000/categories/notes/</loc>
-    <lastmod>2021-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://standalone.pub:4000/categories/notes/app-settings/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://standalone.pub:4000/categories/notes/front/</loc>
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://standalone.pub:4000/categories/notes/app-settings/</loc>
+    <lastmod>2021-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

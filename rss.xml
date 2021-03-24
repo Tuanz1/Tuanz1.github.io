@@ -10,8 +10,8 @@
         </author>
         <description>兴趣使然的写代码 &amp;&amp; 笔记</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 12 Nov 2020 00:13:42 +0800</pubDate>
-        <lastBuildDate>Thu, 12 Nov 2020 00:13:42 +0800</lastBuildDate>
+        <pubDate>Wed, 02 Dec 2020 15:34:37 +0800</pubDate>
+        <lastBuildDate>Wed, 02 Dec 2020 15:34:37 +0800</lastBuildDate>
         <category term="计算机" />
         <category term=" 图库" />
         <category term=" 笔记" />
@@ -19,8 +19,8 @@
             <guid isPermalink="true">http://standalone.pub:4000/markdown/</guid>
             <title>MarkDown</title>
             <link>http://standalone.pub:4000/markdown/</link>
-            <pubDate>Thu, 12 Nov 2020 00:13:42 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;Hexo 博客 Shoka 主题支持的 Markdown 一些特殊的语法使用例子。&lt;/p&gt;
+            <pubDate>Wed, 02 Dec 2020 15:34:37 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;Hexo 博客 Shoka 主题支持的 Markdown 一些特殊的语法使用例子。&lt;/p&gt;
 &lt;h2 id=&#34;code代码块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#code代码块&#34;&gt;#&lt;/a&gt;  &lt;code&gt;code&lt;/code&gt;  代码块&lt;/h2&gt;
 &lt;p&gt;使用  &lt;code&gt;markdown-it-prism&lt;/code&gt;  进行代码高亮，支持显示行号、行高亮  &lt;code&gt;mark&lt;/code&gt;  、命令行提示符  &lt;code&gt;command&lt;/code&gt;  、代码块标题。&lt;/p&gt;
 &lt;p&gt;基本格式： &lt;code&gt;[language] [title] [url] [link text] [mark] [command]&lt;/code&gt;&lt;/p&gt;
@@ -313,7 +313,7 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
             <category term="Ionic" scheme="http://standalone.pub:4000/tags/Ionic/" />
             <category term="Font Awesome" scheme="http://standalone.pub:4000/tags/Font-Awesome/" />
             <pubDate>Sat, 07 Nov 2020 17:34:39 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;ionic项目中使用font-awesome&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ionic项目中使用font-awesome&#34;&gt;#&lt;/a&gt; Ionic 项目中使用 Font Awesome&lt;/h1&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;ionic项目中使用font-awesome&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ionic项目中使用font-awesome&#34;&gt;#&lt;/a&gt; Ionic 项目中使用 Font Awesome&lt;/h1&gt;
 &lt;h2 id=&#34;配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置&#34;&gt;#&lt;/a&gt; 配置&lt;/h2&gt;
 &lt;p&gt;安装必要的包&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; i @fortawesome/angular-fontawesome&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; @fortawesome/fontawesome-svg-core&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; @fortawesome/free-solid-svg-icons&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; @fortawesome/free-regular-svg-icons&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; @fortawesome/free-brands-svg-icons&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用&#34;&gt;#&lt;/a&gt; 使用&lt;/h2&gt;
@@ -333,7 +333,7 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
             <category term="Echarts" scheme="http://standalone.pub:4000/tags/Echarts/" />
             <category term="Angular" scheme="http://standalone.pub:4000/tags/Angular/" />
             <pubDate>Sat, 07 Nov 2020 13:44:48 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;ionic整合echarts&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ionic整合echarts&#34;&gt;#&lt;/a&gt; Ionic 整合 Echarts&lt;/h1&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;ionic整合echarts&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ionic整合echarts&#34;&gt;#&lt;/a&gt; Ionic 整合 Echarts&lt;/h1&gt;
 &lt;p&gt;本文主要介绍如何在 Ionic 项目中使用 Echarts 来绘制图表。&lt;br /&gt;
 本文书写时使用软件版本&lt;br /&gt;
  &lt;code&gt;ionic@6.12.0&lt;/code&gt; &lt;br /&gt;
@@ -369,7 +369,7 @@ A: 在对应组件的 &lt;code&gt;module.ts&lt;/code&gt;  中 import &lt;code&gt
             <category term="nginx" scheme="http://standalone.pub:4000/tags/nginx/" />
             <category term="软件安装" scheme="http://standalone.pub:4000/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/" />
             <pubDate>Sun, 21 Oct 2018 20:48:10 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;nginx&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nginx&#34;&gt;#&lt;/a&gt; Nginx&lt;/h2&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;nginx&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nginx&#34;&gt;#&lt;/a&gt; Nginx&lt;/h2&gt;
 &lt;h2 id=&#34;安装过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装过程&#34;&gt;#&lt;/a&gt; 安装过程&lt;/h2&gt;
 &lt;p&gt;在 ubuntu 发行版下只需一条命令即可安装 nginx&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;apt-get&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; nginx&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;details&gt;&lt;summary&gt;如果发现安装的版本不是最新版本，则需要一些前置操作&lt;/summary&gt;&lt;div&gt;
@@ -409,7 +409,7 @@ A: 在对应组件的 &lt;code&gt;module.ts&lt;/code&gt;  中 import &lt;code&gt
             <category term="Parse-Server" scheme="http://standalone.pub:4000/tags/Parse-Server/" />
             <category term="Parse-Dashboard" scheme="http://standalone.pub:4000/tags/Parse-Dashboard/" />
             <pubDate>Mon, 18 Jun 2018 12:49:39 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;parse-server服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#parse-server服务&#34;&gt;#&lt;/a&gt; Parse Server 服务&lt;/h1&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;parse-server服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#parse-server服务&#34;&gt;#&lt;/a&gt; Parse Server 服务&lt;/h1&gt;
 &lt;h2 id=&#34;安装软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装软件&#34;&gt;#&lt;/a&gt; 安装软件&lt;/h2&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; i -g parse-server parse-dashboard&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# mongodb 数据依据 linux 发行版自行安装 (我是 arch linux)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# aur -S mongodb&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;启动服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启动服务&#34;&gt;#&lt;/a&gt; 启动服务&lt;/h3&gt;
 &lt;ol&gt;
